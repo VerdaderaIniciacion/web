@@ -1400,6 +1400,11 @@ h1.intro-header::before {
   .header-menu-toggle {
     right: 24px;
   }
+  .header-logos {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0;
+  }
 }
 
 /* -------------------------------------------------------------------
@@ -1905,6 +1910,15 @@ html[data-useragent*="MSIE 10.0"] .home-scrolldown,
   .header-logos {
     left: 0px;
     top: 70px;
+  }
+  .home-image-header {
+    margin-top: 50px;
+    right: 40px;
+  }
+  .home-image-header2 {
+    margin: 0;
+    right: 40px;
+    max-width: 20%;
   }
 }
 
