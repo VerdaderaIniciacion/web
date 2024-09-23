@@ -1914,11 +1914,12 @@ html[data-useragent*="MSIE 10.0"] .home-scrolldown,
   .home-image-header {
     margin-top: 50px;
     right: 40px;
+    max-width: 10%;
   }
   .home-image-header2 {
     margin: 0;
     right: 40px;
-    max-width: 20%;
+    max-width: 10%;
   }
 }
 
