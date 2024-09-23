@@ -1948,6 +1948,20 @@ html[data-useragent*="MSIE 10.0"] .home-scrolldown,
     width: 320px;
     margin-bottom: -298px;
   }
+  .header-logos {
+    left: 0px;
+    top: 70px;
+  }
+  .home-image-header {
+    margin-top: 50px;
+    right: 70px;
+    max-width: 30px;
+  }
+  .home-image-header2 {
+    margin: 0;
+    right: 60px;
+    max-width: 30px;
+  }
 }
 /* ===================================================================
  *  11. about - (_layout.scss)
