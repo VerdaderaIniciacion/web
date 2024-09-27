@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /config/
+
+Sitemap: https://verdaderainiciacion.com.ar/sitemap.xml
